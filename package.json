@@ -1,0 +1,13 @@
+{
+  "name": "playwright_practice_sessions",
+  "version": "1.0.0",
+  "description": "This is a Demo Project",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Ashmi Bose",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.47.1",
+    "@types/node": "^22.5.5"
+  }
+}
